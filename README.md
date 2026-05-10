@@ -10,6 +10,7 @@ To find how many stolen works an artist has:
 http://127.0.0.1:PORT/stolen_count/Pablo%20Picasso
 
 Replace PORT with the number shown when running the app.
+
 =====================================================================================
 
 SQL:
